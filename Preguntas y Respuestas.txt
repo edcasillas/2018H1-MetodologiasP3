@@ -1,0 +1,9 @@
+Nombre completo:
+1. Describe en tus propias palabras qué es Kanban y para qué sirve. - 
+2. Describe en tus propias palabras qué es una sesión de Grooming. -
+3. ¿Qué significa que un PBI sea INVEST? -
+4. ¿Qué significa que una tarea sea SMART? -
+5. ¿Qué es una gráfica de burn-up? ¿Cómo se construye? ¿Para qué sirve? -
+6. ¿Qué es una gráfica de burn-down? ¿Cómo se construye? ¿Para qué sirve? -
+7. Describe en tus propias palabras qué son los "puntos" en la estimación ágil. -
+8. Describe en tus propias palabras cuáles son las responsabilidades del Product Owner. -
