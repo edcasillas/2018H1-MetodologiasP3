@@ -1,4 +1,4 @@
-﻿Nombre completo: Alvaro Lucio Martinez Botello
+﻿Nombre completo: Álvaro Lucio Martínez Botello
 1. Describe en tus propias palabras qué es Kanban y para qué sirve. 
 	- Kanban es un tablero para visualizar el flujo de trabajo de un proyecto, asignado columnas establecidas por el equipo.
 
