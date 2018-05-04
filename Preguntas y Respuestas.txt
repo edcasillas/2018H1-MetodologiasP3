@@ -1,9 +1,39 @@
-Nombre completo:
-1. Describe en tus propias palabras qué es Kanban y para qué sirve. - 
-2. Describe en tus propias palabras qué es una sesión de Grooming. -
-3. ¿Qué significa que un PBI sea INVEST? -
-4. ¿Qué significa que una tarea sea SMART? -
-5. ¿Qué es una gráfica de burn-up? ¿Cómo se construye? ¿Para qué sirve? -
-6. ¿Qué es una gráfica de burn-down? ¿Cómo se construye? ¿Para qué sirve? -
-7. Describe en tus propias palabras qué son los "puntos" en la estimación ágil. -
-8. Describe en tus propias palabras cuáles son las responsabilidades del Product Owner. -
+﻿Nombre completo: Alvaro Lucio Martinez Botello
+1. Describe en tus propias palabras qué es Kanban y para qué sirve. 
+	- Kanban es un tablero para visualizar el flujo de trabajo de un proyecto, asignado columnas establecidas por el equipo.
+
+2. Describe en tus propias palabras qué es una sesión de Grooming. 
+	-Es una sesión que se realiza entre todo el equipo para la limpieza del product backlogc como descartar tareas o priorizarlas.
+
+3. ¿Qué significa que un PBI sea INVEST? 
+
+	-I – Independiente: La historia debe ser independiente para poder llevarse a cabo sin depender de otras.
+	-N – Negociable: Puede ser negociable en cuanto a que puede ser sujeta a cambio.
+	-V – De Valor: Debe aportar valor al proyecto.
+	-E – Estimable: Debe ser estimable para que pueda fácilmente llevarse a cabo en un determinado tiempo.
+	-S – Pequeña: Debe ser suficientemente pequeña para poder realizarse en un determinado periodo.
+	-T – Testable: Debe poder ser sujeto a pruebas.
+
+4. ¿Qué significa que una tarea sea SMART? 
+
+	-S – Especifico: Debe ser suficiente especifica o detallada
+	-M – Medible: Debo poder ser medible para tomarse como un objetivo
+	-A –Alcanzable: Debe poder ser alcanzable en un determinado tiempo para llevarse a cabo.
+	-R – Realista: Debe poder ser un objetivo con valor.
+	-T – Tiempo: Debe poder ser definida en un tiempo determinado.
+
+5. ¿Qué es una gráfica de burn-up? ¿Cómo se construye? ¿Para qué sirve? 
+	-Es similar al burn-down, solo que muestra la cantidad de trabajo que se realiza durante cada sprint, por ende esta grafica en ves de bajar, aumenta en su flujo, pues con esta se puede determinar el trabajo del equipo.
+	-De igual forma se construye en el eje Y la cantidad de puntos totales de SPRINT, y en el eje X la cantidad de días del SPRINT, comenzando desde 0.
+
+6. ¿Qué es una gráfica de burn-down? ¿Cómo se construye? ¿Para qué sirve? 
+	-La grafica burn-down es aquella que muestra el trabajo pendiente por realiza la cual va disminuyendo conforme el trabajo se va realizando y las historias se van completando.
+	-Se construye de tal forma que en el eje Y van la cantidad de puntos totales de las historias del proyecto, y en el eje X los días que en los que se llevara a cabo el proyecto, por ende la grafica disminuye cada día si hubo un avance.
+
+7. Describe en tus propias palabras qué son los "puntos" en la estimación ágil. 
+	-Los puntos de estimación ágil son aquellos que se les asigna a las historias de usuario, para definir el rango de dificultad que esta tiene.
+
+8. Describe en tus propias palabras cuáles son las responsabilidades del Product Owner.
+
+	-Product Owner: Básicamente es el propietario del producto encargado de su revisión, y manejo del mismo
+-
