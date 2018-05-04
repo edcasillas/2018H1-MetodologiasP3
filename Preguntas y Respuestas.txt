@@ -1,5 +1,42 @@
+<<<<<<< HEAD
 ﻿
 ﻿Nombre completo: Álvaro Lucio Martínez Botello 
+=======
+﻿<<<<<<< HEAD
+=======
+﻿Nombre completo:Juan Manuel Casanova Cruz 
+1. Describe en tus propias palabras qué es Kanban y para qué sirve. - Es un tablero en el cual se ingresan las tareas o historias de usuario, el orden en el que se colocan en el tablero 
+va depender de las columnas que ponga el equipo de desarrollo,por lo regular van tres columnas una es las tareas faltantes por hacer, la segunda son las tareas que se están realizando
+y tres las tareas finalizadas. Este tablero sirve para que el equipo de desarrollo siempre tenga presente el avance del proyecto.
+
+2. Describe en tus propias palabras qué es una sesión de Grooming. -Es una sesión donde se reúne todo el equipo de desarrollo para ver el product backlog y poder actualizarlo, es decir, 
+ver que historias de usuario siguen siendo importantes, cuáles ya se realizaron, y cuáles ya no son relevantes para el desarrollo.
+
+3. ¿Qué significa que un PBI sea INVEST? -Son las historias de usuario que cumple con las siglas de INVEST las cuales son: I independiente debe de ser lo suficientemente independiente 
+de las demás historias de usuario, N la historia puede ser negociable, V esa historia debe de agregar valor al proyecto, E su realización debe de ser estimable, S debe de ser lo suficientemente
+pequeña, T la historia debe de poderse testear para ver si se cumple.
+
+4. ¿Qué significa que una tarea sea SMART? -Deben de cumplir con las siglas de SMART las cuales son: S debe de ser pequeña, M las tareas deben de poderse medir en tiempo, A la tarea debe  de
+ser alcanzable en el sprint, R la tarea debe de ser relevante para el proyecto, T debe de estar dentro del tiempo límite.
+
+5. ¿Qué es una gráfica de burn-up? ¿Cómo se construye? ¿Para qué sirve? - Es una gráfica que mide el progreso del equipo de desarrollo durante el sprint, se construye a partir de tiempo con
+los puntos alcanzados en ese tiempo, es decir, si el tiempo fueran días se tendrá una grafica de puntos por día, y sirve para ver la eficiencia que está teniendo el equipo de desarrollo.
+
+6. ¿Qué es una gráfica de burn-down? ¿Cómo se construye? ¿Para qué sirve? - Es una gráfica que mide el progreso de proyecto con respecto a los puntos totales del backlog, se construye con 
+los datos de los puntos obtenidos del sprint y se le restan a los puntos totales del backlog, y sirve para ver qué tan posible es acabar con el proyecto con respecto al tiempo límite que
+se tenga.
+
+7. Describe en tus propias palabras qué son los "puntos" en la estimación ágil. -Los puntos son la referencia de la dificultad para realizar una historia de usuario, es decir, entre más esfuerzo, 
+recursos y tiempo de realización necesita una historia de usuario más puntos se le asigna, sin embargo hay que tener en cuenta que si en verdad es tan pesada es posible que haya la 
+posibilidad de que la historia de usuario se pueda dividir en más y así dividir los puntos entres todas.
+
+8. Describe en tus propias palabras cuáles son las responsabilidades del Product Owner. -El Product Owner es quien conoce las necesidades del cliente, del usuario, y los alcances que puede
+tener el equipo de desarrollo, razón por la que es el encargado de organizar las historias de usuario del backlog ya que el sabe si en verdad sube el valor del producto y si el equipo 
+puede llegar a realizarlas en tiempo y forma.
+>>>>>>> Juan_Manuel_Casanova_Cruz
+
+Nombre completo: Álvaro Lucio Martínez Botello 
+>>>>>>> 30287e6ec1b43ef1bb021dff3624ec8db5f07d6d
 1. Describe en tus propias palabras qué es Kanban y para qué sirve. 
 	- Kanban es un tablero para visualizar el flujo de trabajo de un proyecto, asignado columnas establecidas por el equipo.
 
@@ -37,6 +74,7 @@
 8. Describe en tus propias palabras cuáles son las responsabilidades del Product Owner.
 
 	-Product Owner: Básicamente es el propietario del producto encargado de su revisión, y manejo del mismo
+<<<<<<< HEAD
 
 
 ﻿Nombre completo:Juan Manuel Casanova Cruz 
@@ -79,3 +117,5 @@ puede llegar a realizarlas en tiempo y forma.
 6. ¿Qué es una gráfica de burn-down? ¿Cómo se construye? ¿Para qué sirve? - Una gráfica de burn-down sirve para ver cómo se van "quemando" o reduciendo los puntos totales del proyecto con respecto al tiempo. Los datos con los que se construye la gráfica son los sprints, representando el tiempo, y los puntos totales. Los sprints van en el eje de las "x" y los puntos van en el eje de las "y". Es una gráfica de líneas.
 7. Describe en tus propias palabras qué son los "puntos" en la estimación ágil. - Los puntos son las unidades de trabajo que se establecen por el equipo. Los puntos se le agregan a cada una de las historias de usuario. Sirven para medir el esfuerzo que se requiere para realizar una historia. También sirven para comparar las historias.
 8. Describe en tus propias palabras cuáles son las responsabilidades del Product Owner. - El Product Owner tiene la responsabilidad de hablar directamente con el cliente y, en base a eso, decidir con el equipo la importancia que tienen las historias en el backlog. El tiene que buscar que el proyecto consiga el mayor valor posible.
+=======
+>>>>>>> 30287e6ec1b43ef1bb021dff3624ec8db5f07d6d
