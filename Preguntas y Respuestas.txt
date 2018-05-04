@@ -1,3 +1,75 @@
+﻿
+﻿Nombre completo: Álvaro Lucio Martínez Botello 
+1. Describe en tus propias palabras qué es Kanban y para qué sirve. 
+	- Kanban es un tablero para visualizar el flujo de trabajo de un proyecto, asignado columnas establecidas por el equipo.
+
+2. Describe en tus propias palabras qué es una sesión de Grooming. 
+	-Es una sesión que se realiza entre todo el equipo para la limpieza del product backlogc como descartar tareas o priorizarlas.
+
+3. ¿Qué significa que un PBI sea INVEST? 
+
+	-I – Independiente: La historia debe ser independiente para poder llevarse a cabo sin depender de otras.
+	-N – Negociable: Puede ser negociable en cuanto a que puede ser sujeta a cambio.
+	-V – De Valor: Debe aportar valor al proyecto.
+	-E – Estimable: Debe ser estimable para que pueda fácilmente llevarse a cabo en un determinado tiempo.
+	-S – Pequeña: Debe ser suficientemente pequeña para poder realizarse en un determinado periodo.
+	-T – Testable: Debe poder ser sujeto a pruebas.
+
+4. ¿Qué significa que una tarea sea SMART? 
+
+	-S – Especifico: Debe ser suficiente especifica o detallada
+	-M – Medible: Debo poder ser medible para tomarse como un objetivo
+	-A –Alcanzable: Debe poder ser alcanzable en un determinado tiempo para llevarse a cabo.
+	-R – Realista: Debe poder ser un objetivo con valor.
+	-T – Tiempo: Debe poder ser definida en un tiempo determinado.
+
+5. ¿Qué es una gráfica de burn-up? ¿Cómo se construye? ¿Para qué sirve? 
+	-Es similar al burn-down, solo que muestra la cantidad de trabajo que se realiza durante cada sprint, por ende esta grafica en ves de bajar, aumenta en su flujo, pues con esta se puede determinar el trabajo del equipo.
+	-De igual forma se construye en el eje Y la cantidad de puntos totales de SPRINT, y en el eje X la cantidad de días del SPRINT, comenzando desde 0.
+
+6. ¿Qué es una gráfica de burn-down? ¿Cómo se construye? ¿Para qué sirve? 
+	-La grafica burn-down es aquella que muestra el trabajo pendiente por realiza la cual va disminuyendo conforme el trabajo se va realizando y las historias se van completando.
+	-Se construye de tal forma que en el eje Y van la cantidad de puntos totales de las historias del proyecto, y en el eje X los días que en los que se llevara a cabo el proyecto, por ende la grafica disminuye cada día si hubo un avance.
+
+7. Describe en tus propias palabras qué son los "puntos" en la estimación ágil. 
+	-Los puntos de estimación ágil son aquellos que se les asigna a las historias de usuario, para definir el rango de dificultad que esta tiene.
+
+8. Describe en tus propias palabras cuáles son las responsabilidades del Product Owner.
+
+	-Product Owner: Básicamente es el propietario del producto encargado de su revisión, y manejo del mismo
+
+
+﻿Nombre completo:Juan Manuel Casanova Cruz 
+1. Describe en tus propias palabras qué es Kanban y para qué sirve. - Es un tablero en el cual se ingresan las tareas o historias de usuario, el orden en el que se colocan en el tablero 
+va depender de las columnas que ponga el equipo de desarrollo,por lo regular van tres columnas una es las tareas faltantes por hacer, la segunda son las tareas que se están realizando
+y tres las tareas finalizadas. Este tablero sirve para que el equipo de desarrollo siempre tenga presente el avance del proyecto.
+
+2. Describe en tus propias palabras qué es una sesión de Grooming. -Es una sesión donde se reúne todo el equipo de desarrollo para ver el product backlog y poder actualizarlo, es decir, 
+ver que historias de usuario siguen siendo importantes, cuáles ya se realizaron, y cuáles ya no son relevantes para el desarrollo.
+
+3. ¿Qué significa que un PBI sea INVEST? -Son las historias de usuario que cumple con las siglas de INVEST las cuales son: I independiente debe de ser lo suficientemente independiente 
+de las demás historias de usuario, N la historia puede ser negociable, V esa historia debe de agregar valor al proyecto, E su realización debe de ser estimable, S debe de ser lo suficientemente
+pequeña, T la historia debe de poderse testear para ver si se cumple.
+
+4. ¿Qué significa que una tarea sea SMART? -Deben de cumplir con las siglas de SMART las cuales son: S debe de ser pequeña, M las tareas deben de poderse medir en tiempo, A la tarea debe  de
+ser alcanzable en el sprint, R la tarea debe de ser relevante para el proyecto, T debe de estar dentro del tiempo límite.
+
+5. ¿Qué es una gráfica de burn-up? ¿Cómo se construye? ¿Para qué sirve? - Es una gráfica que mide el progreso del equipo de desarrollo durante el sprint, se construye a partir de tiempo con
+los puntos alcanzados en ese tiempo, es decir, si el tiempo fueran días se tendrá una grafica de puntos por día, y sirve para ver la eficiencia que está teniendo el equipo de desarrollo.
+
+6. ¿Qué es una gráfica de burn-down? ¿Cómo se construye? ¿Para qué sirve? - Es una gráfica que mide el progreso de proyecto con respecto a los puntos totales del backlog, se construye con 
+los datos de los puntos obtenidos del sprint y se le restan a los puntos totales del backlog, y sirve para ver qué tan posible es acabar con el proyecto con respecto al tiempo límite que
+se tenga.
+
+7. Describe en tus propias palabras qué son los "puntos" en la estimación ágil. -Los puntos son la referencia de la dificultad para realizar una historia de usuario, es decir, entre más esfuerzo, 
+recursos y tiempo de realización necesita una historia de usuario más puntos se le asigna, sin embargo hay que tener en cuenta que si en verdad es tan pesada es posible que haya la 
+posibilidad de que la historia de usuario se pueda dividir en más y así dividir los puntos entres todas.
+
+8. Describe en tus propias palabras cuáles son las responsabilidades del Product Owner. -El Product Owner es quien conoce las necesidades del cliente, del usuario, y los alcances que puede
+tener el equipo de desarrollo, razón por la que es el encargado de organizar las historias de usuario del backlog ya que el sabe si en verdad sube el valor del producto y si el equipo 
+puede llegar a realizarlas en tiempo y forma.
+
+
 ﻿Nombre completo: Aldo Crespo Saldivar
 1. Describe en tus propias palabras qué es Kanban y para qué sirve. - Kanban es una forma de organización que te permite ver el estado de las tareas de manera visual. La característica principal de Kanban es ser un tablero donde puedes dividir el trabajo en bloques.
 2. Describe en tus propias palabras qué es una sesión de Grooming. - Es cuando el Product Owner y el equipo revisan el Product Backlog para darle prioridad y orden a las tareas.
